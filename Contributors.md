@@ -19,6 +19,7 @@
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
 - [Raj sharma](https://github.com/lluciferr)
+- [Mathlokz](https://github.com/Mathlokz)
 - [Conaitus](https://github.com/conaitus)
 - [OpherM] (https://github.com/OpherM)
 - [YuHangSE](https://github.com/YuHangSE)
